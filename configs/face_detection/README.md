@@ -45,6 +45,11 @@
   │   │   │   │   ...
   │   │   ├── 10--People_Marching
   │   │   │   ...
+  │   ├── ground_truth
+  │   │   ├── wider_easy_val.mat
+  │   │   ├── wider_face_val.mat
+  │   │   ├── wider_hard_val.mat
+  │   │   ├── wider_medium_val.mat
   ```
 
 - 手动下载数据集：
